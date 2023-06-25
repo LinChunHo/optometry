@@ -20,7 +20,7 @@
 
     # any module necessary for this one to work correctly
     'depends': ['base','contacts'],
-
+'license': 'AGPL-3',
     # always loaded
     'data': [
         'security/groups.xml',
